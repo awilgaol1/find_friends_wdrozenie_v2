@@ -1,6 +1,7 @@
-streamlit==1.28.0
+streamlit
 pandas==1.5.3
-pycaret==3.0.0
+pycaret[clustering]==3.0.0
 plotly==5.17.0
+Cython<3.0.0
 scikit-learn==1.2.2
 numpy==1.23.5
